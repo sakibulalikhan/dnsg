@@ -1,5 +1,5 @@
 # dnsgraber
-Automate DNS Enumeration with - DNS Graber.
+###### Automate DNS Enumeration with - DNS Graber.
 
 
 ![image](https://user-images.githubusercontent.com/75080608/230473565-b03d936a-ff51-45c7-a0be-b44ecee7aabd.png)
