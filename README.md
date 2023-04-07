@@ -10,7 +10,7 @@
 ## Installation DNS Graber:
 
 ```
-git clone https://github.com/sakibulalikhan/dnsgraber.git && cd dnsgraber && sudo mv /usr/bin && sudo chmod +x dnsg.sh
+git clone https://github.com/sakibulalikhan/dnsgraber.git && cd dnsgraber && sudo mv dnsg.sh /usr/bin && sudo chmod +x dnsg.sh
 
 ```
 
