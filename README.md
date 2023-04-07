@@ -29,6 +29,6 @@ dnsg.sh doman
 
 
 # License
-Sub-Finder is licensed under the MIT license. take a look at the [LICENSE](https://github.com/sakibulalikhan/dnsgraber/blob/main/LICENSE) for more information.
+DNS Graber is licensed under the MIT license. take a look at the [LICENSE](https://github.com/sakibulalikhan/dnsgraber/blob/main/LICENSE) for more information.
 
 # [Follow me on Twitter](https://twitter.com/sakibulalikhan) [@sakibulalikhan](https://twitter.com/sakibulalikhan)
