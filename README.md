@@ -1,5 +1,5 @@
 # dnsg
-#### Automate DNS Enumeration with - DNS Graber.
+#### Automate DNS Enumeration with - DNS G.
 
 
 ![image](https://user-images.githubusercontent.com/75080608/230473565-b03d936a-ff51-45c7-a0be-b44ecee7aabd.png)
@@ -10,11 +10,11 @@
 ## Installation DNS Graber:
 
 ```
-git clone https://github.com/sakibulalikhan/dnsgraber.git && cd dnsgraber && sudo mv dnsg.sh /usr/bin && sudo chmod +x dnsg.sh
+git clone https://github.com/sakibulalikhan/dnsg.git && cd dnsg && sudo mv dnsg.sh /usr/bin && sudo chmod +x dnsg.sh
 
 ```
 
-## How to use DNS Graber
+## How to use DNS G
 
 ```
 dnsg.sh doman
@@ -29,6 +29,6 @@ dnsg.sh doman
 
 
 # License
-DNS Graber is licensed under the MIT license. take a look at the [LICENSE](https://github.com/sakibulalikhan/dnsgraber/blob/main/LICENSE) for more information.
+DNS G is licensed under the MIT license. take a look at the [LICENSE](https://github.com/sakibulalikhan/dnsg/blob/main/LICENSE) for more information.
 
 # [Follow me on Twitter](https://twitter.com/sakibulalikhan) [@sakibulalikhan](https://twitter.com/sakibulalikhan)
