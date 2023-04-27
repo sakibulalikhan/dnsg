@@ -1,4 +1,4 @@
-# dnsgraber
+# dnsg
 #### Automate DNS Enumeration with - DNS Graber.
 
 
