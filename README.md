@@ -1,4 +1,4 @@
-# dnsg
+# DNS G
 #### Automate DNS Enumeration with - DNS G.
 
 
