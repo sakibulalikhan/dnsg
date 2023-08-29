@@ -2,8 +2,7 @@
 #### Automate DNS Enumeration with - DNS G.
 
 
-![image](https://github.com/sakibulalikhan/dnsg/assets/75080608/92c69c1d-b203-4d8a-a8de-94d25ab9fb45)
-
+![image](https://github.com/sakibulalikhan/dnsg/assets/75080608/7c7f72f0-5f6c-4578-87eb-ba7844cff236)
 
 
 ## Features
@@ -24,10 +23,8 @@ dnsg domain
 
 ### Photos:
 
-![Screenshot from 2023-04-07 01-04-54](https://user-images.githubusercontent.com/75080608/230477041-af31f7ec-a6e0-4551-aac9-7ddb1bde80be.png)
-![image](https://user-images.githubusercontent.com/75080608/230477183-ab7afd00-937d-4cc6-b7bd-b933cedbd1de.png)
-![image](https://user-images.githubusercontent.com/75080608/230477286-1a3dadb2-8682-4067-9736-30523ca66703.png)
-![image](https://user-images.githubusercontent.com/75080608/230477490-f5ddf6b9-69dc-4824-a7f5-30e1b67a28a4.png)
+![image](https://github.com/sakibulalikhan/dnsg/assets/75080608/83bce48f-1f6f-4a9a-b402-8fc8f43bb2b3)
+![image](https://github.com/sakibulalikhan/dnsg/assets/75080608/3c059765-5389-4522-9254-1ea634b57fdd)
 
 
 # License
