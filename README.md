@@ -2,7 +2,9 @@
 #### Automate DNS Enumeration with - DNS G.
 
 
-![image](https://user-images.githubusercontent.com/75080608/230473565-b03d936a-ff51-45c7-a0be-b44ecee7aabd.png)
+![image](https://github.com/sakibulalikhan/dnsg/assets/75080608/92c69c1d-b203-4d8a-a8de-94d25ab9fb45)
+
+
 
 ## Features
 * It actually finds all possible DNS information using bind-utils or bind-tools with the dig command.
