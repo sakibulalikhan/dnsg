@@ -15,7 +15,7 @@ echo -e "+-----------------------------------+\n"
 
 if [ ${#} -ne 1 ]
 then
-    echo usage dnsg.sh domain
+    echo usage dnsg domain
     exit
 fi
 
