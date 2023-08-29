@@ -5,19 +5,19 @@
 ![image](https://user-images.githubusercontent.com/75080608/230473565-b03d936a-ff51-45c7-a0be-b44ecee7aabd.png)
 
 ## Features
-* It actually find all possible DNS information using bind-utils or bind-tools with dig command.
+* It actually finds all possible DNS information using bind-utils or bind-tools with the dig command.
 
-## Installation DNS Graber:
+## Installation DNS G:
 
 ```
-git clone https://github.com/sakibulalikhan/dnsg.git && cd dnsg && sudo mv dnsg.sh /usr/bin && sudo chmod +x dnsg.sh
+git clone https://github.com/sakibulalikhan/dnsg.git && cd dnsg && sudo mv dnsg /usr/bin && sudo chmod +x /usr/bin/dnsg
 
 ```
 
 ## How to use DNS G
 
 ```
-dnsg.sh doman
+dnsg domain
 ```
 
 ### Photos:
